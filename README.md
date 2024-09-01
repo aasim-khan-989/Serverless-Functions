@@ -1,1 +1,1 @@
-In this repo there is code related to basic setup of a serverless cloud service offered by cloudfare name cloudflare worker, similar to aws lambda 
+This repository contains the code for setting up a basic serverless cloud service using Cloudflare Workers, which is similar to AWS Lambda.
